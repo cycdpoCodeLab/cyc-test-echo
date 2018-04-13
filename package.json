@@ -1,6 +1,6 @@
 {
   "name": "cyc-test-echo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "test npm publish",
   "main": "./lib/echo.js",
   "scripts": {
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cycjimmy/cyc-test-echo.git"
+    "url": "git+https://github.com/cycdpoCodeLab/cyc-test-echo.git"
   },
   "author": "cycjimmy <cycjimmy@gmail.com> (https://github.com/cycjimmy)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cycjimmy/cyc-test-echo/issues"
+    "url": "https://github.com/cycdpoCodeLab/cyc-test-echo/issues"
   },
-  "homepage": "https://github.com/cycjimmy/cyc-test-echo#readme",
+  "homepage": "https://github.com/cycdpoCodeLab/cyc-test-echo#readme",
   "bin": {
-    "node-echo": "./bin/node-echo"
+    "node-echo": "./bin/node-echo.js"
   },
   "dependencies": {
     "argv": "^0.0.2"
